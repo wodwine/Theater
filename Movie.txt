@@ -1,0 +1,5 @@
+Name:Annihilating:seat#120#price*300*
+Name:X-Men:seat#120#price*100*
+Name:Insidious:seat#100#price*120*
+Name:Fantastic Beast:seat#120#price*300*
+Name:Sabrina:seat#100#price*500*
